@@ -1,0 +1,10 @@
+{
+  "steps": {
+    "pull_files_from_storage": true,
+    "pull_model_from_repo": true,
+    "level1_calculations": true,
+    "level2_calculations": false,
+    "publish_report": true
+  },
+  "optional_settings": "!load optional.json"
+}

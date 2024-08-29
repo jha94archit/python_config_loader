@@ -1,0 +1,8 @@
+steps:
+  pull_files_from_storage: True
+  pull_model_from_repo: True
+  level1_calculations: True
+  level2_calculations: False
+  publish_report: True
+
+optional_settings: !include "optional_conf.yml"
